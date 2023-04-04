@@ -1075,7 +1075,6 @@ PRODUCT_PACKAGES += \
     CACertService \
     CneApp \
     TimeService \
-    com.qualcomm.qti.gpudrivers.sm6150.api30 \
     PowerOffAlarm \
     audiosphere \
     android.hardware.neuralnetworks@1.3-service-qti-hta \
